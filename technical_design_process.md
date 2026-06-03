@@ -7,7 +7,7 @@ Design work is broken into two main activities.
 
 The below diagram is called the **design process spiral**
 
-![The design process spiral](/Attachments/Pasted%20image%2020260603080939.png)
+![The design process spiral](Attachments/Pasted%20image%2020260603080939.png)
 
 *Image source: [^1]*
 
