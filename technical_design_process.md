@@ -1,6 +1,4 @@
 
-# Technical Design Process
-
 When the tasks actually needs some careful thought before getting started. Or is too big to jump into codding first. We need to think about technical design.
 
 Design work is broken into two main activities.
@@ -9,12 +7,12 @@ Design work is broken into two main activities.
 
 The below diagram is called the **design process spiral**
 
-![The design process spiral](Attachments/Pasted%20image%2020260603080939.png)
+![The design process spiral](/Attachments/Pasted%20image%2020260603080939.png)
 
 *Image source: [^1]*
 
->[!IMPORTANT]
-> Design is an evolving process with the design document. Making proof of concept also falls under the design process and part of the design spiral.
+
+> **IMPORTANT**:  Design is an evolving process with the design document. Making proof of concept also falls under the design process and part of the design spiral.
 
 Here is the thing, every team member has to do his own solitary  work (with deep work) then only the collaborative part gives any value. Staring from the bottom of the spiral, the domain feels not familiar, with iterations we get confident with the domain, and problem. Also the number of experts consulted grows as we progress towards the top of the spiral. 
 
