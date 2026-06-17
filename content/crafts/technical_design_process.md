@@ -1,3 +1,8 @@
++++
+title = 'Technical Design Process'
+date = 2026-06-03
+draft = false
++++
 
 When the tasks actually needs some careful thought before getting started. Or is too big to jump into codding first. We need to think about technical design.
 
@@ -7,7 +12,7 @@ Design work is broken into two main activities.
 
 The below diagram is called the **design process spiral**
 
-![The design process spiral](Attachments/Pasted%20image%2020260603080939.png)
+![The design process spiral](/Attachments/Pasted%20image%2020260603080939.png)
 
 *Image source: [^1]*
 

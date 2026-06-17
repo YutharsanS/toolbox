@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Crafts on My New Hugo Project</title>
+    <link>http://localhost:1313/craft/</link>
+    <description>Recent content in Crafts on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/craft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technical Design Process</title>
+      <link>http://localhost:1313/craft/technical_design_process/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/craft/technical_design_process/</guid>
+      <description>&lt;p&gt;When the tasks actually needs some careful thought before getting started. Or is too big to jump into codding first. We need to think about technical design.&lt;/p&gt;
+&lt;p&gt;Design work is broken into two main activities.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deep solitary individual work&lt;/li&gt;
+&lt;li&gt;Collaborative group discussions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The below diagram is called the &lt;strong&gt;design process spiral&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;The design process spiral&#34; loading=&#34;lazy&#34; src=&#34;Attachments/Pasted%20image%2020260603080939.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Image source: &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;IMPORTANT&lt;/strong&gt;:  Design is an evolving process with the design document. Making proof of concept also falls under the design process and part of the design spiral.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

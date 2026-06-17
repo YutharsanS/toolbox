@@ -1,0 +1,4 @@
+baseURL = 'https://yutharsans.github.io/toolbox/'
+locale = 'en-us'
+title = 'toolbox'
+theme = 'PaperMod'
