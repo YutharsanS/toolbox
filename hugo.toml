@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://yutharsans.github.io/toolbox/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'toolbox'
+theme = 'PaperMod'
