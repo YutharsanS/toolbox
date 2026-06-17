@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Crafts on toolbox</title><link>https://yutharsans.github.io/toolbox/crafts/</link><description>Recent content in Crafts on toolbox</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://yutharsans.github.io/toolbox/crafts/index.xml" rel="self" type="application/rss+xml"/><item><title>Technical Design Process</title><link>https://yutharsans.github.io/toolbox/crafts/technical_design_process/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://yutharsans.github.io/toolbox/crafts/technical_design_process/</guid><description>&lt;p&gt;When the tasks actually needs some careful thought before getting started. Or is too big to jump into codding first. We need to think about technical design.&lt;/p&gt;
+&lt;p&gt;Design work is broken into two main activities.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deep solitary individual work&lt;/li&gt;
+&lt;li&gt;Collaborative group discussions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The below diagram is called the &lt;strong&gt;design process spiral&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="The design process spiral" loading="lazy" src="https://yutharsans.github.io/toolbox/Attachments/Pasted%20image%2020260603080939.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Image source: &lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;IMPORTANT&lt;/strong&gt;: Design is an evolving process with the design document. Making proof of concept also falls under the design process and part of the design spiral.&lt;/p&gt;</description></item></channel></rss>
